@@ -1,1 +1,1 @@
-# KamabokoServer-ResourcePack
+# かまぼこサーバー専用リソースパック
