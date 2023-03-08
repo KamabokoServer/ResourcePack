@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "minecraft:item/diamond_hoe"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":3002}, "model":"stardust/stardust_scythe"},
+		{"predicate": {"custom_model_data":600103}, "model":"2anniv/hoe"}
+	]
+}

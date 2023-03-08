@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/golden_apple"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":200001}, "model": "medicine/tori01"},
+		{"predicate": {"custom_model_data":600108}, "model": "2anniv/golden_apple"}
+	]
+}

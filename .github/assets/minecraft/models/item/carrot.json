@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/carrot"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "farm/carrot_medium"},
+		{"predicate": {"custom_model_data":2}, "model": "farm/carrot_high"},
+		{"predicate": {"custom_model_data":3}, "model": "farm/carrot_stardust"}
+	]
+}

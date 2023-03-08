@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "item/netherite_pickaxe"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":700100}, "model":"upgrade/pickaxes/upgrade_pickaxe"},
+		{"predicate": {"custom_model_data":701001}, "model":"upgrade/pickaxes/pickaxe_T1"},
+		{"predicate": {"custom_model_data":701002}, "model":"upgrade/pickaxes/pickaxe_T2"},
+		{"predicate": {"custom_model_data":701003}, "model":"upgrade/pickaxes/pickaxe_T3"},
+		{"predicate": {"custom_model_data":701004}, "model":"upgrade/pickaxes/pickaxe_T4"},
+		{"predicate": {"custom_model_data":701005}, "model":"upgrade/pickaxes/pickaxe_T5"},
+		{"predicate": {"custom_model_data":701006}, "model":"upgrade/pickaxes/pickaxe_T6_F"},
+		{"predicate": {"custom_model_data":701007}, "model":"upgrade/pickaxes/pickaxe_T6_S"}
+	]
+}

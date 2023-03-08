@@ -1,0 +1,154 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "blood_sword",
+	"textures": {
+		"0": "item/swords/blood_sword/ancient_debris_side",
+		"1": "item/swords/blood_sword/reinforced_deepslate_bottom",
+		"2": "item/swords/blood_sword/anvil",
+		"particle": "item/swords/blood_sword/ancient_debris_side"
+	},
+	"elements": [
+		{
+			"from": [7, 8, 6],
+			"to": [9, 9, 11],
+			"faces": {
+				"north": {"uv": [5, 2, 7, 3], "texture": "#1"},
+				"east": {"uv": [1, 6, 6, 7], "texture": "#1"},
+				"south": {"uv": [4, 4, 6, 5], "texture": "#1"},
+				"west": {"uv": [5, 8, 10, 9], "texture": "#1"},
+				"up": {"uv": [8, 2, 10, 7], "texture": "#1"},
+				"down": {"uv": [12, 6, 14, 11], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 7, 6],
+			"to": [9, 10, 7],
+			"faces": {
+				"north": {"uv": [7, 7, 9, 10], "texture": "#1"},
+				"east": {"uv": [7, 7, 8, 10], "texture": "#1"},
+				"south": {"uv": [4, 3, 6, 6], "texture": "#1"},
+				"west": {"uv": [1, 6, 2, 9], "texture": "#1"},
+				"up": {"uv": [3, 8, 5, 9], "texture": "#1"},
+				"down": {"uv": [8, 4, 10, 5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 9, 8],
+			"to": [9, 18, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [7, 13, 7],
+			"to": [9, 22, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 9], "texture": "#2"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#2"}
+			}
+		},
+		{
+			"from": [7, 21, 8],
+			"to": [9, 23, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#2"}
+			}
+		},
+		{
+			"from": [7, 4, 8],
+			"to": [9, 8, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 2, 9],
+			"to": [9.005, 7, 11.001],
+			"faces": {
+				"north": {"uv": [0, 0, 2.005, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.001, 5], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.005, 5], "texture": "#0"},
+				"west": {"uv": [0, 0, 2.001, 5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.005, 2.001], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.005, 2.001], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 10],
+			"to": [9.002, 5, 12.002],
+			"faces": {
+				"north": {"uv": [0, 0, 2.002, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.002, 5], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.002, 5], "texture": "#0"},
+				"west": {"uv": [0, 0, 2.002, 5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.002, 2.002], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.002, 2.002], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 180, 0],
+			"translation": [-12, 0.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 180, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [168, 180, 0],
+			"translation": [-18.5, 2.75, -2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [172, 180, 0],
+			"translation": [0, 2.75, -2]
+		},
+		"ground": {
+			"rotation": [180, 0, 0],
+			"translation": [0, 23.25, 0]
+		},
+		"gui": {
+			"rotation": [90, -123, 90],
+			"translation": [0, -1.5, 0]
+		},
+		"head": {
+			"rotation": [-30, 0, 0],
+			"translation": [0, 6.5, -6.75]
+		},
+		"fixed": {
+			"rotation": [-90, 50, 90],
+			"translation": [1, -3.25, 0]
+		}
+	},
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		{
+			"name": "handle",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [5, 6, 7]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/potato"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "farm/potato_medium"},
+		{"predicate": {"custom_model_data":2}, "model": "farm/potato_high"},
+		{"predicate": {"custom_model_data":3}, "model": "farm/potato_stardust"}
+	]
+}

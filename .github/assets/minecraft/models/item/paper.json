@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/paper"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":300001}, "model": "money/10000yen"},
+		{"predicate": {"custom_model_data":400001}, "model": "gacha/normal"},
+		{"predicate": {"custom_model_data":400002}, "model": "gacha/premium"},
+		{"predicate": {"custom_model_data":401201}, "model": "2anniv/ticket"},
+		{"predicate": {"custom_model_data":401202}, "model": "2anniv/ticket_confirmed"},
+		{"predicate": {"custom_model_data":500001}, "model": "background/gray"}
+		
+	]
+}

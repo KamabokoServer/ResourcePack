@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sugar_cane"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "farm/sugar_cane_medium"},
+		{"predicate": {"custom_model_data":2}, "model": "farm/sugar_cane_high"},
+		{"predicate": {"custom_model_data":3}, "model": "farm/sugar_cane_stardust"}
+	]
+}
