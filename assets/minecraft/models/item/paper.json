@@ -6,11 +6,12 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data":300001}, "model": "money/10000yen"},
+		{"predicate": {"custom_model_data":300103}, "model": "login_paper"},
 		{"predicate": {"custom_model_data":400001}, "model": "gacha/normal"},
 		{"predicate": {"custom_model_data":400002}, "model": "gacha/premium"},
 		{"predicate": {"custom_model_data":401201}, "model": "2anniv/ticket"},
 		{"predicate": {"custom_model_data":401202}, "model": "2anniv/ticket_confirmed"},
-		{"predicate": {"custom_model_data":500001}, "model": "background/gray"}
-		
+		{"predicate": {"custom_model_data":500001}, "model": "background/gray"},
+		{"predicate": {"custom_model_data":790001}, "model": "upgrade/materials/upgrade_tool"}
 	]
 }

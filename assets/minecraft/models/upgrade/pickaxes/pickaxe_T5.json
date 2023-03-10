@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-	  "layer0": "item/upgrade/pickaxes/pickaxe_T5"
+	  "layer0": "item/upgrade/pickaxes/pickaxe_t5"
 	}
 }
