@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cvfx/sonic_boom/14"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -16, 0],
+			"scale": [4, 4, 1.5]
+		},
+		"head": {
+			"translation": [0, -16, 0],
+			"scale": [4, 4, 0.5]
+		}
+	}
+}

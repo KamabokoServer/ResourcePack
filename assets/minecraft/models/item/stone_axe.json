@@ -94,6 +94,7 @@
                 "damage": 0.0
             },
             "model": "item/stone_axe_11"
-        }
+        },
+    	{"predicate": {"custom_model_data":600212}, "model": "event/1/stone_axe"}
     ]
 }

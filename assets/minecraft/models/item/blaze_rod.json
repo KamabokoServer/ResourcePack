@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "minecraft:item/blaze_rod"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":200005}, "model":"stardust/stardust_bow"},
+		{"predicate": {"custom_model_data":200006}, "model":"stardust/stardust_bow_2"},
+		{"predicate": {"custom_model_data":200007}, "model":"stardust/stardust_bow_3"}
+	]
+}

@@ -5,6 +5,7 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":300002}, "model": "2anniv/iron_ingot"}
+		{"predicate": {"custom_model_data":300002}, "model": "2anniv/iron_ingot"},
+		{"predicate": {"custom_model_data":300108}, "model": "stardust/star_ingot"}
 	]
 }

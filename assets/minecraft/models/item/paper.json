@@ -5,6 +5,12 @@
 	},
 	
 	"overrides": [
+		{"predicate": {"custom_model_data":100001}, "model": "c3d/vending_machine_01"},
+		{"predicate": {"custom_model_data":100002}, "model": "c3d/kamaboko_block"},
+		{"predicate": {"custom_model_data":100003}, "model": "c3d/trophy/golden"},
+		{"predicate": {"custom_model_data":100004}, "model": "c3d/trophy/silver"},
+		{"predicate": {"custom_model_data":100005}, "model": "c3d/trophy/bronze"},
+		{"predicate": {"custom_model_data":100006}, "model": "c3d/big_speaker"},
 		{"predicate": {"custom_model_data":300001}, "model": "money/10000yen"},
 		{"predicate": {"custom_model_data":300103}, "model": "login_paper"},
 		{"predicate": {"custom_model_data":400001}, "model": "gacha/normal"},

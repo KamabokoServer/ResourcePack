@@ -1,0 +1,48 @@
+{
+    "blaze_rod": [
+        {
+            "custom_model_data": 200005,
+            "sprite": "textures/minecraft/sprites/stardust/stardust_bow"
+        },
+        {
+            "custom_model_data": 200006,
+            "sprite": "textures/minecraft/sprites/stardust/stardust_bow"
+        }
+    ],
+    "grass": [
+        {
+            "custom_model_data": 600206,
+            "sprite": "textures/geyser/geyser_custom/minecraft/sprites/sakura_event/sakura_carpet"
+        },
+        {   
+            "custom_model_data": 600221,
+            "sprite": "textures/geyser/geyser_custom/minecraft/sprites/sakura_event/sakura_leaves"
+        },
+        {
+            "custom_model_data": 600222,
+            "sprite": "textures/geyser/geyser_custom/minecraft/sprites/sakura_event/sakura_leaves_kaseki"
+        }
+    ],
+    "paper": [
+        {
+            "custom_model_data": 100001,
+            "sprite": "textures/minecraft/sprites/vending_machine_01"
+        },
+        {
+            "custom_model_data": 100002,
+            "sprite": "textures/geyser/geyser_custom/minecraft/sprites/kamaboko_block"
+        },
+        {
+            "custom_model_data": 100003,
+            "sprite": "textures/geyser/geyser_custom/minecraft/sprites/trophy/golden"
+        },
+        {
+            "custom_model_data": 100004,
+            "sprite": "textures/geyser/geyser_custom/minecraft/sprites/trophy/silver"
+        },
+        {
+            "custom_model_data": 100005,
+            "sprite": "textures/geyser/geyser_custom/minecraft/sprites/trophy/bronze"
+        }
+    ]
+}

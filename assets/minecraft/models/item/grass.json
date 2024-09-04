@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:block/grass"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":600206}, "model": "event/1/carpet"},
+		{"predicate": {"custom_model_data":600221}, "model": "event/1/leaves"},
+		{"predicate": {"custom_model_data":600222}, "model": "event/1/leaves_kaseki"}
+	]
+}

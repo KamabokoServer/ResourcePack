@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/poppy"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":600201}, "model": "event/1/petals"},
+    {"predicate": {"custom_model_data":600214}, "model": "event/1/item"},
+    {"predicate": {"custom_model_data":600223}, "model": "event/1/kamikazari"},
+    {"predicate": {"custom_model_data":600225}, "model": "event/1/petals_kaseki"}
+    
+  ]
+}

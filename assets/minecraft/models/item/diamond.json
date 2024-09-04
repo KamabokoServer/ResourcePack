@@ -7,6 +7,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data":300002}, "model": "dsu/pink_crystal"},
 		{"predicate": {"custom_model_data":300003}, "model": "dsu/red_crystal"},
+		{"predicate": {"custom_model_data":300107}, "model": "stardust/stardust"},
 		{"predicate": {"custom_model_data":600109}, "model": "2anniv/diamond"}
 	]
 }

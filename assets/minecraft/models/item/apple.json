@@ -5,6 +5,7 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":200001}, "model": "medicine/tori01"}
+		{"predicate": {"custom_model_data":600202}, "model": "event/1/sakurannbo"}
+
 	]
 }

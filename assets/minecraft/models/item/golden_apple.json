@@ -6,6 +6,9 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data":200001}, "model": "medicine/tori01"},
+		{"predicate": {"custom_model_data":300104}, "model": "recovery/shield_apple"},
+		{"predicate": {"custom_model_data":300105}, "model": "recovery/shield_apple"},
+		{"predicate": {"custom_model_data":300106}, "model": "recovery/fragmented_shield_apple"},
 		{"predicate": {"custom_model_data":600108}, "model": "2anniv/golden_apple"}
 	]
 }

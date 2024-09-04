@@ -1,0 +1,32 @@
+{
+	"parent": "item/generated",
+	"textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":3000}, "model": "cvfx/stardust_slash/0"},
+		{"predicate": {"custom_model_data":3001}, "model": "cvfx/stardust_slash/1"},
+		{"predicate": {"custom_model_data":3002}, "model": "cvfx/stardust_slash/2"},
+		{"predicate": {"custom_model_data":3010}, "model": "cvfx/sonic_boom/0"},
+		{"predicate": {"custom_model_data":3011}, "model": "cvfx/sonic_boom/1"},
+		{"predicate": {"custom_model_data":3012}, "model": "cvfx/sonic_boom/2"},
+		{"predicate": {"custom_model_data":3013}, "model": "cvfx/sonic_boom/3"},
+		{"predicate": {"custom_model_data":3014}, "model": "cvfx/sonic_boom/4"},
+		{"predicate": {"custom_model_data":3015}, "model": "cvfx/sonic_boom/5"},
+		{"predicate": {"custom_model_data":3016}, "model": "cvfx/sonic_boom/6"},
+		{"predicate": {"custom_model_data":3016}, "model": "cvfx/sonic_boom/7"},
+		{"predicate": {"custom_model_data":3017}, "model": "cvfx/sonic_boom/8"},
+		{"predicate": {"custom_model_data":3018}, "model": "cvfx/sonic_boom/9"},
+		{"predicate": {"custom_model_data":3019}, "model": "cvfx/sonic_boom/10"},
+		{"predicate": {"custom_model_data":3020}, "model": "cvfx/sonic_boom/11"},
+		{"predicate": {"custom_model_data":3021}, "model": "cvfx/sonic_boom/12"},
+		{"predicate": {"custom_model_data":3022}, "model": "cvfx/sonic_boom/13"},
+		{"predicate": {"custom_model_data":3023}, "model": "cvfx/sonic_boom/14"},
+		{"predicate": {"custom_model_data":3024}, "model": "cvfx/sonic_boom/15"},
+		{"predicate": {"custom_model_data":3030}, "model": "cvfx/shield/0"},
+		{"predicate": {"custom_model_data":3031}, "model": "cvfx/shield/1"},
+		{"predicate": {"custom_model_data":3032}, "model": "cvfx/shield/2"}
+	]
+}
