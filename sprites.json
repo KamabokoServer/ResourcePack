@@ -1,46 +1,44 @@
 {
-    "blaze_rod": [
-        {
-            "custom_model_data": 200005,
-            "sprite": "textures/minecraft/sprites/stardust/stardust_bow"
-        },
-        {
-            "custom_model_data": 200006,
-            "sprite": "textures/minecraft/sprites/stardust/stardust_bow"
-        }
-    ],
     "grass": [
         {
+            "":"桜のカーペット",
             "custom_model_data": 600206,
             "sprite": "textures/geyser/geyser_custom/minecraft/sprites/sakura_event/sakura_carpet"
         },
         {   
+            "":"桜の葉っぱ",
             "custom_model_data": 600221,
             "sprite": "textures/geyser/geyser_custom/minecraft/sprites/sakura_event/sakura_leaves"
         },
         {
+            "":"桜の葉っぱの化石",
             "custom_model_data": 600222,
             "sprite": "textures/geyser/geyser_custom/minecraft/sprites/sakura_event/sakura_leaves_kaseki"
         }
     ],
     "paper": [
         {
+            "":"自動販売機１",
             "custom_model_data": 100001,
             "sprite": "textures/minecraft/sprites/vending_machine_01"
         },
         {
+            "":"かまぼこブロック",
             "custom_model_data": 100002,
             "sprite": "textures/geyser/geyser_custom/minecraft/sprites/kamaboko_block"
         },
         {
+            "":"トロフィー（金）",
             "custom_model_data": 100003,
             "sprite": "textures/geyser/geyser_custom/minecraft/sprites/trophy/golden"
         },
         {
+            "":"トロフィー（銀）",
             "custom_model_data": 100004,
             "sprite": "textures/geyser/geyser_custom/minecraft/sprites/trophy/silver"
         },
         {
+            "":"トロフィー（銅）",
             "custom_model_data": 100005,
             "sprite": "textures/geyser/geyser_custom/minecraft/sprites/trophy/bronze"
         }
